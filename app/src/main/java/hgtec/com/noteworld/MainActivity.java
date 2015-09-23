@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
 
+        String url = "";
+
         return super.onOptionsItemSelected(item);
     }
 }
