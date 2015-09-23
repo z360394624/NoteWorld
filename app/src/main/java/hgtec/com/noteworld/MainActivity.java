@@ -32,7 +32,9 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
 
-        String url = "";
+//        String url = "";
+//
+//        url = "Test";
 
         return super.onOptionsItemSelected(item);
     }
